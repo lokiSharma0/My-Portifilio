@@ -72,6 +72,7 @@ export const Portifilio = () => {
       </article>
         )
       })}
+      
     </div>
     </section>
   )
