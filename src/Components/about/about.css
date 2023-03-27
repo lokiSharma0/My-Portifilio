@@ -1,0 +1,68 @@
+.intro h5,h2{
+    text-align: center;
+}
+.btn-b{
+    
+    width: max-content;
+    display: inline-block;
+    color :black;
+    border-radius: 0.4rem;
+    cursor: pointer;
+    border: 1px solid blueviolet;
+    background-color: aqua;
+  margin-left: 45%;
+}
+.about-me{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 1.5rem;
+}
+.about_card{
+    background:rgb(43, 85, 99);
+    border: 1px solid transparent;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+   
+}
+.about_card:hover{
+    background: transparent;
+    border-color: var(--color-primary);
+    cursor: pointer;
+}
+.about_card h5{
+    font-size: 1rem;
+    font-weight: 790;
+}
+p{
+    margin: 2rem 0 2.6rem;
+    color:lightslategray;
+    text-align: center;
+}
+ /*==========media queries(medium devices)=========*/
+ @media screen and (max-width:1024px) {
+    
+    .about-me{
+        display: flex;
+        flex-direction: column;
+    }
+  }
+  /*==========media Queries (smaller devices=========*/
+  @media screen and (max-width:600px) {
+    .socialicons-all{
+      display: none;
+    }
+    .main-container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+   .profile-image{
+    margin-left:5rem;
+    width: 15rem;
+    height: 20rem;
+   }
+   
+  }

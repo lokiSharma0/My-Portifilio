@@ -1,0 +1,34 @@
+footer{
+    background: rgb(38, 78, 92);
+    margin-top: 1rem;
+    padding: 3rem 0;
+    text-align: center;
+    font-size: 0.9rem;
+    border-radius: 1rem;
+}
+footer a{
+    color:black;
+}
+.footerlogo{
+    font-size: 1.5rem;
+    font-weight: 800;
+    margin-bottom: 2rem;
+    display: inline-block;
+}
+.premalinks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:2rem;
+    margin:  0 auto 3rem;
+}
+.social_media_icons{
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 1rem;
+}
+.footer_copyright{
+margin-bottom: 4rem;
+color: rgb(46, 36, 36);
+}

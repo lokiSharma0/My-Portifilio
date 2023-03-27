@@ -1,0 +1,70 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ 
+}
+/*==========Profile image=========*/
+.profile-image{
+    border-radius: 90%;
+    margin-left: 45%;
+  }
+  .profile-image{
+    width: 15rem;
+    height: 20rem;
+    box-shadow: 5px 10px #f37979;
+    
+  }
+  /*==========CV Downlaod Button =========*/
+  .cvb-div{
+    text-align: center;
+   
+  }
+  .cvb-main-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:3rem;
+    
+  }
+  .socialicons{
+    margin-left: 5rem;
+  }
+  
+  
+/*==========SOCIAL Media Icons=========*/
+  .socialicons-all{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+   
+  }
+  /*==========media queries(medium devices)=========*/
+  @media screen and (max-width:1024px) {
+    
+    .main-container{
+      display: flex;
+      flex-direction: column;
+    }
+  }
+  /*==========media Queries (smaller devices=========*/
+  @media screen and (max-width:600px) {
+    .socialicons-all{
+      display: none;
+    }
+    .main-container{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+  
+   .profile-image{
+    margin-left:5rem;
+    width: 15rem;
+    height: 20rem;
+   }
+   .btn{
+   
+   }
+   
+  }
