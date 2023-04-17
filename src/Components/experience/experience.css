@@ -33,7 +33,7 @@ grid-template-columns: 1fr 1fr;
      grid-template-columns: 1fr;
     }
     .experience_container >div{
-        width: 80%;
+        width: 50%;
         padding: 2rem;
         margin: 0 auto;
     }
@@ -45,10 +45,15 @@ grid-template-columns: 1fr 1fr;
   @media screen and (max-width:600px) {
     .experience_container{
         gap: 1rem;
+        margin-right: 3rem;
     }
     .experience_container >div{
-     width: 100%;
+     width: 93%;
      padding:  2rem 1rem;
+     
     }
-   
+   /* .experience_contect{
+    display: flex;
+    flex-direction: column;
+   } */
   }

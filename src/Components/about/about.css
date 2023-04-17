@@ -61,8 +61,20 @@ p{
   
    .profile-image{
     margin-left:5rem;
-    width: 15rem;
+    
     height: 20rem;
    }
-   
+   h5{
+    font-size: 30px;
+   }
+   p{
+    font-size: 20px;
+   }
+   .btn-b{
+    font-size: 25px;
+    margin-left:10rem;
+   }
+   .about-me{
+    margin-right:2rem ;
+   }
   }
