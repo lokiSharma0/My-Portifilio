@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My-Portifilio/static/css/main.2881be59.css",
+    "main.css": "/My-Portifilio/static/css/main.6c2b582a.css",
     "main.js": "/My-Portifilio/static/js/main.cd32a805.js",
     "static/media/nobackgroundlokimg.png": "/My-Portifilio/static/media/nobackgroundlokimg.3d074e8de458486008c2.png",
     "static/media/Lokendra_Resume.pdf": "/My-Portifilio/static/media/Lokendra_Resume.c893ba83e4af5ac74229.pdf",
@@ -11,11 +11,11 @@
     "static/media/p4.webp": "/My-Portifilio/static/media/p4.852808236f529d05b03f.webp",
     "static/media/p6.webp": "/My-Portifilio/static/media/p6.772b0091b38d759756a0.webp",
     "index.html": "/My-Portifilio/index.html",
-    "main.2881be59.css.map": "/My-Portifilio/static/css/main.2881be59.css.map",
+    "main.6c2b582a.css.map": "/My-Portifilio/static/css/main.6c2b582a.css.map",
     "main.cd32a805.js.map": "/My-Portifilio/static/js/main.cd32a805.js.map"
   },
   "entrypoints": [
-    "static/css/main.2881be59.css",
+    "static/css/main.6c2b582a.css",
     "static/js/main.cd32a805.js"
   ]
 }
