@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/My-Portifilio/static/css/main.6c2b582a.css",
-    "main.js": "/My-Portifilio/static/js/main.cd32a805.js",
-    "static/media/nobackgroundlokimg.png": "/My-Portifilio/static/media/nobackgroundlokimg.3d074e8de458486008c2.png",
-    "static/media/Lokendra_Resume.pdf": "/My-Portifilio/static/media/Lokendra_Resume.c893ba83e4af5ac74229.pdf",
+    "main.js": "/My-Portifilio/static/js/main.6195559d.js",
+    "static/media/nobackgroundimage.png": "/My-Portifilio/static/media/nobackgroundimage.6b2ca3b7960c8d7e66e7.png",
+    "static/media/Lokendra_Sharma.pdf": "/My-Portifilio/static/media/Lokendra_Sharma.a3fc144a8802ad578985.pdf",
     "static/media/p1.webp": "/My-Portifilio/static/media/p1.4729fbcf6ea2be3429fd.webp",
     "static/media/p3.webp": "/My-Portifilio/static/media/p3.6d1ccb3379ccc2408938.webp",
     "static/media/p2.webp": "/My-Portifilio/static/media/p2.70ac4da75b15c7a20a2d.webp",
@@ -12,10 +12,10 @@
     "static/media/p6.webp": "/My-Portifilio/static/media/p6.772b0091b38d759756a0.webp",
     "index.html": "/My-Portifilio/index.html",
     "main.6c2b582a.css.map": "/My-Portifilio/static/css/main.6c2b582a.css.map",
-    "main.cd32a805.js.map": "/My-Portifilio/static/js/main.cd32a805.js.map"
+    "main.6195559d.js.map": "/My-Portifilio/static/js/main.6195559d.js.map"
   },
   "entrypoints": [
     "static/css/main.6c2b582a.css",
-    "static/js/main.cd32a805.js"
+    "static/js/main.6195559d.js"
   ]
 }
